@@ -1,0 +1,15 @@
+## Data Manipulation
+
+-- Removing Null values & text processing in the dataframe.
+-- Lowercasing, lemmatisation, stemming, HTML removal in text.
+
+## TFIDF Vectorisation
+
+-- To convert the review text into vector we use TFIDF vectorisation technique.
+-- Machine Learning models appied : SVC, RandomForest, Logistic Regression, NaiveBayes & Decision Tree.
+
+## CF Based Recommendation
+
+-- Taking the pre existing user vs item scores and then mapping similar user's item scores with the existing user's given item scores.
+
+-- Similar approach for item based CF algorithm and we observe that the user based matching is better in terms of MAE scores. 
